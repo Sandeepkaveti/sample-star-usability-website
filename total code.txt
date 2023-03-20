@@ -1,0 +1,568 @@
+HTML CODE :
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link
+      rel="icon"
+      href="https://i.pinimg.com/564x/46/7e/bc/467ebc45ec8d343cb4227088ff7dd7c8.jpg"
+    />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Star</title>
+  </head>
+  <body>
+    <!-- Top-banner -->
+    <div class="top-banner">
+      <div class="container">
+        <div class="small-bold-text banner-text">New to usability hub:</div>
+      </div>
+    </div>
+    <!-- Nav bar -->
+    <nav>
+      <div class="container main-nav flex">
+        <a href="#" class="company-logo">
+          <img
+            src="https://i.pinimg.com/564x/46/7e/bc/467ebc45ec8d343cb4227088ff7dd7c8.jpg"
+            alt="company logo"
+          />
+        </a>
+        <div class="nav-links">
+          <ul class="flex">
+            <li><a href="" class="hover-links">Products</a></li>
+            <li><a href="" class="hover-links">Customer</a></li>
+            <li><a href="" class="hover-links">Pricing</a></li>
+            <li><a href="" class="hover-links">Resources</a></li>
+            <li><a href="" class="hover-links secondary-button">Sign in</a></li>
+            <li><a href="" class="hover-links primary-button">Sign up</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!-- header-section -->
+    <header>
+      <div class="conatiner header-section flex">
+        <div class="header-left">
+          <h1>Design Confidently</h1>
+          <p>
+            Usability is a remote user reasearc platform that takes the
+            guesswork out of design decisions by validating them with real
+            users.
+          </p>
+          <a href="#" class="primary-button get-satted-btn">Get Started</a>
+        </div>
+        <div class="header-right">
+          <img src="./undraw_Programming_re_kg9v.png" alt="hero img" />
+        </div>
+      </div>
+    </header>
+    <!-- companines section -->
+    <section class="companies-section">
+      <div class="conatiner">
+        <div class="small-bold-text companies-header">
+          The world's best companies usability to make better design decisions.
+        </div>
+        <div class="logos flex">
+          <img class="logo" src="./amazon1.jpg" alt="" />
+          <img class="logo" src="./dev.jpg" alt="" />
+          <img class="logo" src="./google.jpg" alt="" />
+          <img class="logo" src="./Helix.jpg" alt="" />
+          <img class="logo" src="./ibm.jpg" alt="" />
+          <img class="logo" src="./microsoft.jpg" alt="" />
+          <img class="logo" src="./flecto.jpg" alt="" />
+          <img class="logo" src="./softbird.jpg" alt="" />
+        </div>
+      </div>
+    </section>
+    <!-- features section -->
+    <section class="features-section">
+      <div class="conatiner">
+        <div class="features-header">
+          <h2 class="feature-heading-text">
+            Your user research Swiss Army knife
+          </h2>
+          <a href="#" class="secondary-button"
+            >See all features <i class="fa-solid fa-right-long"></i
+          ></a>
+        </div>
+        <div class="features-area flex">
+          <div class="features-card flex">
+            <img src="./icons8-card-verification-value-94.png" alt="" />
+            <h3>Card Sorting</h3>
+            <p>Discover how people group and labe information</p>
+            <a href="#" class="secondary-button"
+              >Learn More <i class="fa-solid fa-right-long"></i
+            ></a>
+          </div>
+          <div class="features-card flex">
+            <img src="./icons8-design-96.png" alt="" />
+            <h3>Card Sorting</h3>
+            <p>Discover how people group and labe information</p>
+            <a href="#" class="secondary-button"
+              >Learn More <i class="fa-solid fa-right-long"></i
+            ></a>
+          </div>
+          <div class="features-card flex">
+            <img src="./icons8-design-96.png" alt="" />
+            <h3>Card Sorting</h3>
+            <p>Discover how people group and labe information</p>
+            <a href="#" class="secondary-button"
+              >Learn More <i class="fa-solid fa-right-long"></i
+            ></a>
+          </div>
+          <div class="features-card flex">
+            <img src="./icons8-design-96.png" alt="" />
+            <h3>Card Sorting</h3>
+            <p>Discover how people group and labe information</p>
+            <a href="#" class="secondary-button"
+              >Learn More <i class="fa-solid fa-right-long"></i
+            ></a>
+          </div>
+          <div class="features-card flex">
+            <img src="./icons8-keycap-digit-five-96.png" alt="" />
+            <h3>Card Sorting</h3>
+            <p>Discover how people group and labe information</p>
+            <a href="#" class="secondary-button"
+              >Learn More <i class="fa-solid fa-right-long"></i
+            ></a>
+          </div>
+          <div class="features-card flex">
+            <img src="./icons8-left-click-96.png" alt="" />
+            <h3>Card Sorting</h3>
+            <p>Discover how people group and labe information</p>
+            <a href="#" class="secondary-button"
+              >Learn More <i class="fa-solid fa-right-long"></i
+            ></a>
+          </div>
+          <div class="features-card flex">
+            <img src="./icons8-prototype-96.png" alt="" />
+            <h3>Card Sorting</h3>
+            <p>Discover how people group and labe information</p>
+            <a href="#" class="secondary-button"
+              >Learn More <i class="fa-solid fa-right-long"></i
+            ></a>
+          </div>
+          <div class="features-card flex">
+            <img src="./icons8-web-design-96.png" alt="" />
+            <h3>Card Sorting</h3>
+            <p>Discover how people group and labe information</p>
+            <a href="#" class="secondary-button"
+              >Learn More <i class="fa-solid fa-right-long"></i
+            ></a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- big features section -->
+
+    <section class="big-feture-section">
+      <div class="conatiner flex big-feature-conatiner">
+        <div class="feature-img">
+          <img src="./undraw_Designer_life_re_6ywf.png" alt="" />
+        </div>
+        <div class="feature-desc flex">
+          <h3>Effort Validation for</h3>
+          <h2>Design professionals</h2>
+          <p>Test interfaces, interaction flows, icongraph</p>
+        </div>
+      </div>
+    </section>
+    <section class="big-feture-section">
+      <div class="conatiner flex big-feature-conatiner">
+        <div class="feature-desc flex">
+          <h3>Effort Validation for</h3>
+          <h2>Design professionals</h2>
+          <p>Test interfaces, interaction flows, icongraph</p>
+        </div>
+        <div class="feature-img">
+          <img src="./undraw_Design_process_re_0dhf.png" alt="" />
+        </div>
+      </div>
+    </section>
+    <section class="big-feture-section">
+      <div class="conatiner flex big-feature-conatiner">
+        <div class="feature-img">
+          <img src="./undraw_Remote_design_team_re_urdx.png" alt="" />
+        </div>
+        <div class="feature-desc flex">
+          <h3>Effort Validation for</h3>
+          <h2>Design professionals</h2>
+          <p>Test interfaces, interaction flows, icongraph</p>
+        </div>
+      </div>
+    </section>
+    <!-- example section -->
+
+    <section class="examples-section">
+      <div class="conatiner">
+        <div class="examples-header flex">
+          <h2 class="examples-heading-text">
+            One platform,endless possibilites
+          </h2>
+          <a href="#" class="secondary-button"
+            >See more examples <i class="fa-solid fa-right-long"></i
+          ></a>
+        </div>
+        <div class="examples-area flex">
+          <a href="#" class="examples-card">
+            <h3 class="card-text">
+              Can user complte a task in my software interface?
+            </h3>
+          </a>
+          <a class="examples-card" href="#">
+            <h3 class="card-text">
+              Can user complte a task in my software interface?
+            </h3>
+          </a>
+          <a class="examples-card" href="#">
+            <h3 class="card-text">
+              Can user complte a task in my software interface?
+            </h3>
+          </a>
+          <a class="examples-card" href="#">
+            <h3 class="card-text">
+              Can user complte a task in my software interface?
+            </h3>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- cta section -->
+    <section class="cta-section">
+      <div class="conatiner flex cta-section-container">
+        <h2>Start testing today</h2>
+        <p>Take the guesswork out of design decisions</p>
+        <a href="#" class="primary-button">Get Started</a>
+      </div>
+    </section>
+
+    <!-- footer -->
+    <footer>
+      <div class="container flex footer-conatiner">
+        <a href="#" class="company-logo">
+          <img
+            src="https://i.pinimg.com/564x/46/7e/bc/467ebc45ec8d343cb4227088ff7dd7c8.jpg"
+            alt="company logo"
+          />
+        </a>
+        <div class="link-column flex">
+          <h4>Product</h4>
+          <a href="#" class="hover-link">Overview</a>
+          <a href="#" class="hover-link">Pricing</a>
+          <a href="#" class="hover-link">Usability Hub</a>
+          <a href="#" class="hover-link">Customers Page</a>
+          <a href="#" class="hover-link">Status Page</a>
+        </div>
+        <div class="link-column flex">
+          <h4>Methodology</h4>
+          <a href="#" class="hover-link">Overview</a>
+          <a href="#" class="hover-link">Pricing</a>
+          <a href="#" class="hover-link">Usability Hub</a>
+          <a href="#" class="hover-link">Customers Page</a>
+          <a href="#" class="hover-link">Status Page</a>
+        </div>
+        <div class="link-column flex">
+          <h4>Resources</h4>
+          <a href="#" class="hover-link">Overview</a>
+          <a href="#" class="hover-link">Pricing</a>
+          <a href="#" class="hover-link">Usability Hub</a>
+          <a href="#" class="hover-link">Customers Page</a>
+          <a href="#" class="hover-link">Status Page</a>
+        </div>
+      </div>
+    </footer>
+    <!-- sub-footer -->
+    <div class="subfooter">
+      <div class="container flex subfooter-container">
+        <a class="hover-link" href="#">Privacy policy</a>
+        <a class="hover-link" href="#">Terms & Conditions</a>
+        <a class="hover-link" href="#">Security Information</a>
+        <a class="hover-link" href="#"><i class="fa-brands fa-facebook"></i></a>
+        <a class="hover-link" href="#"><i class="fa-brands fa-twitter"></i></a>
+      </div>
+    </div>
+
+    <script
+      src="https://kit.fontawesome.com/ff8a204551.js"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
+
+
+CSS CODE:
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Poppins:wght@400;600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --primary-text-color: #183b56;
+  --secondary-text-color: #577592;
+  --accent-color: #2294ed;
+  --accent-color-dark: #1d69a3;
+  --padding-inline-section: 20px;
+}
+
+body {
+  font-family: "Roboto";
+  color: var(--primary-text-color);
+}
+h1 {
+  font-size: 3rem;
+}
+h2 {
+  font-size: 2rem;
+}
+h3 {
+  font-size: 1.5rem;
+}
+p {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-family: 1.25rem;
+  color: var(--secondary-text-color);
+  line-height: 1.8rem;
+}
+a {
+  text-decoration: none;
+  display: inline-block;
+}
+ul {
+  list-style: none;
+}
+/* Utlility classes */
+.small-bold-text {
+  font-size: 1rem;
+  font-weight: 600;
+}
+.flex {
+  display: flex;
+  align-items: center;
+}
+.hover-links {
+  color: var(--primary-text-color);
+}
+.hover-links:hover {
+  color: var(--accent-color);
+  transition: 0.2s ease-in-out;
+}
+.primary-button {
+  background-color: var(--accent-color);
+  border-radius: 8px;
+  font-weight: 600;
+  color: white !important;
+  padding: 12px 24px;
+  box-shadow: 0 0 2px var(--secondary-text-color);
+  transition: 0.2s ease-out;
+}
+.primary-button:hover {
+  background-color: var(--secondary-text-color);
+}
+.secondary-button {
+  border: 0.5px solid var(--secondary-text-color);
+  background-color: var(--secondary-color);
+  border-radius: 8px;
+  font-weight: 600;
+  color: var(--primary-text-color);
+  padding: 12px 24px;
+  transition: 0.2s ease-out;
+}
+.secondary-button:hover {
+  background-color: var(--accent-color);
+  color: var(--primary-text-color);
+}
+.container {
+  max-width: 1180px;
+  margin-inline: auto;
+  padding: var(--padding-inline-section);
+}
+
+/* Top Banner */
+.top-banner {
+  background-color: #4fb3d4;
+}
+.banner-text {
+  color: white;
+  padding: 15px 30px;
+  text-align: center;
+}
+
+/* Nav */
+.main-nav {
+  margin-top: 10px;
+  justify-content: space-between;
+}
+.company-logo img {
+  width: 200px;
+}
+.nav-links {
+  flex-basis: 730px;
+}
+.nav-links ul {
+  justify-content: end;
+  gap: 40px;
+}
+/* header section */
+header {
+  padding: 50px var(--padding-inline-section);
+}
+.header-section {
+  justify-content: center;
+  gap: 50px;
+}
+.header-left {
+  max-width: 40vw;
+}
+.header-left h1 {
+  margin-top: 20px;
+}
+.get-satted-btn {
+  margin-top: 20px;
+}
+.header-right img {
+  width: 600px;
+}
+/* }companies header */
+.companies-header {
+  text-align: center;
+  margin-block: 30px;
+  color: var(--primary-text-color);
+}
+.logos {
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.logo {
+  height: 36px;
+  margin: 25px;
+}
+/* features-section */
+.features-section {
+  padding: 80px var(--padding-inline-section) 0;
+  background-color: rgb(226, 221, 226);
+}
+.features-header {
+  text-align: center;
+}
+.feature-heading-text {
+  margin-bottom: 20px;
+}
+.features-area {
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 20px;
+  gap: 20px;
+}
+.features-card {
+  flex-direction: column;
+  gap: 20px;
+  max-width: 30%;
+  text-align: center;
+}
+
+/* big feature section */
+.big-feture-section {
+  padding: 30px var(--padding-inline-section) 0;
+}
+.big-feature-conatiner {
+  gap: 20px;
+}
+.feature-desc {
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding-left: 5%;
+}
+.feature-img img {
+  width: 100%;
+}
+/* example section */
+.examples-header {
+  flex-direction: column;
+  gap: 20px;
+}
+
+.examples-area {
+  justify-content: space-between;
+  margin-block: 30px;
+}
+.examples-card {
+  width: 23%;
+  position: relative;
+  min-height: 300px;
+  background: black;
+  margin-left: 5%;
+  background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)),
+    url(./1.png);
+  background-size: cover;
+  transition: 0.2s ease-out;
+}
+.examples-card:hover {
+  box-shadow: 0 0 10px #888;
+}
+.examples-card:nth-child(2) {
+  background-image: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)),
+    url(./4.png);
+  background-size: cover;
+}
+.examples-card:nth-child(3) {
+  background-image: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)),
+    url(./2.png);
+  background-size: cover;
+}
+.examples-card:nth-child(4) {
+  background-image: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)),
+    url(./3.png);
+  background-size: cover;
+}
+.card-text {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  right: 20px;
+  color: white;
+}
+/* cta section */
+.cta-section-container {
+  flex-direction: column;
+  gap: 30px;
+  color: white;
+}
+.cta-section {
+  padding: 120px var(--padding-inline-section) 80px;
+  background-color: #183b54;
+}
+.cta-section-container p {
+  color: white;
+  margin-top: 20px;
+}
+/* footer */
+footer {
+  padding-block: 80px;
+  background-color: #fff;
+}
+.link-column {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+}
+.footer-conatiner {
+  align-items: flex-start;
+  justify-content: space-between;
+}
+/* sub-footer */
+
+.subfooter {
+  background-color: #b9cde4;
+  padding: var(--padding-inline-section);
+}
+.subfooter-container {
+  justify-content: center;
+  gap: 30px;
+}
